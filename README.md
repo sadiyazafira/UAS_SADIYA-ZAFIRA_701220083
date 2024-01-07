@@ -13,3 +13,6 @@ USERNAMA DAN PASSWORD
 1. Admin usarename : admin password : 12345 bisa mengakses semuanya
 2. Pemilik usarename : pemilik password : 12345 hanya bisa akses cetak dan unduh
 3. Siswa username : siswa password : 12345 hanya bisa melihat atau read only
+
+
+database = kursu.sql
